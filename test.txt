@@ -1,7 +1,8 @@
-﻿Git is a version control system.
+﻿Author:zhouchangqian
+
+Git is a version control system.
 Git is ...
 Git is free software.
 
 different here:
-(zhoucq)
 hello world!
