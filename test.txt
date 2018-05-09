@@ -1,7 +1,7 @@
 ﻿Author:zhouchangqian
 
 Git is a version control system.
-Git is ...
+This is the second version.
 Git is free software.
 
 different here:
