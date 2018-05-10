@@ -1,7 +1,11 @@
 ﻿Author:zhouchangqian
 
 Git is a version control system.
+<<<<<<< HEAD
 This is the second version.
+=======
+This is the first version.
+>>>>>>> 3e7d8ccb43eace058208a0d273ba42bb0c3fb9f4
 Git is free software.
 
 different here:
