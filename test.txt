@@ -1,7 +1,11 @@
 ﻿Author:zhouchangqian
 
 Git is a version control system.
+<<<<<<< .mine
 This is the second version.
+=======
+This is the first version.
+>>>>>>> .theirs
 Git is free software.
 
 different here:
